@@ -47,3 +47,20 @@ a {
     position: absolute;
     left:25%;
 }
+.skill-row{
+    margin: 0 auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.php-image{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.mysql-image{
+    width: 40%;
+    height: 60%;
+    float: right;
+    margin-left: 30px;;
+}
